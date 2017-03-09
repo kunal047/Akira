@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5769138e33de9c4eb44eff95a9e7c3182116f9fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d35a1d2321a011f950895897ac46180e6d517ffd">
+        <dex dex="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6e99880ec1f6b300aeeae0c658ceadb2414d3e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_041473526752270d69fcf46fd0b940e3c1f74b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal\.android\build-cache\81c16a144c167b9d30411da10733e1c83ea83c52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\kunal\Workspace\AndroidStudioProjects\Akira\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_705c4b797975ca734ea4d75f57bff97e36f87307\classes.dex" />
+    </item>
+
+</items>

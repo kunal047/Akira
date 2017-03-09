@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SlyceMessaging-1.1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/099e64402cbe14fb100c0a7798bc650889d77dfd/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/099e64402cbe14fb100c0a7798bc650889d77dfd/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Slyce-Inc/SlyceMessaging/1.1.2/2ae4ccb73963a1fc195bff7c8f826e37d53b116d/SlyceMessaging-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
